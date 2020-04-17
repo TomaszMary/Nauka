@@ -6,5 +6,5 @@ Print(a+B)
 
 
 #TO jest  drugi wpis w  pliku  programu 
-Miałem zrobic  kopie wiec je tworze
-Wpis który został dodany przez WWW
+#Miałem zrobic  kopie wiec je tworze
+#Wpis który został dodany przez WWW
